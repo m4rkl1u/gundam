@@ -1,0 +1,6 @@
+__pycache__/
+out/
+gundam/__pycache__
+
+*.bin
+*.pyc
